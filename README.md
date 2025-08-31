@@ -92,7 +92,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
       </td>
       <td>Medium</td>
       <td>🟡</td>
-      <td>❌</td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>5</td>
@@ -103,7 +103,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
       </td>
       <td>Easy</td>
       <td>🟢</td>
-      <td>❌</td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>6</td>
@@ -114,7 +114,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
       </td>
       <td>Medium</td>
       <td>🟡</td>
-      <td>❌</td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>7</td>
@@ -601,7 +601,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
       </td>
       <td>Easy</td>
       <td>🟢</td>
-      <td>❌</td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>49</td>
@@ -612,7 +612,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
       </td>
       <td>Medium</td>
       <td>🟡</td>
-      <td>❌</td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>50</td>
