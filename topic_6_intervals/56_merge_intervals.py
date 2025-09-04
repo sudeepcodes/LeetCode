@@ -1,3 +1,6 @@
+from typing import List
+
+
 class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
         # sort so that the starting times are in ascending order
