@@ -47,7 +47,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
   <tbody>
     <tr>
       <td colspan="5" align="center">
-        <strong>Array / String</strong>
+        <strong>Topic-1: Array / String</strong>
       </td>
     </tr>
     <tr>
@@ -316,7 +316,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
     </tr>
     <tr>
       <td colspan="5" align="center">
-        <strong>Two Pointers</strong>
+        <strong>Topic-2: Two Pointers</strong>
       </td>
     </tr>
     <tr>
@@ -376,7 +376,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
     </tr>
     <tr>
       <td colspan="5" align="center">
-        <strong>Sliding Window</strong>
+        <strong>Topic-3: Sliding Window</strong>
       </td>
     </tr>
     <tr>
@@ -425,7 +425,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
     </tr>
     <tr>
       <td colspan="5" align="center">
-        <strong>Matrix</strong>
+        <strong>Topic-4: Matrix</strong>
       </td>
     </tr>
     <tr>
@@ -485,7 +485,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
     </tr>
     <tr>
       <td colspan="5" align="center">
-        <strong>Hashmap</strong>
+        <strong>Topic-5: Hashmap</strong>
       </td>
     </tr>
     <tr>
@@ -589,7 +589,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
     </tr>
     <tr>
       <td colspan="5" align="center">
-        <strong>Intervals</strong>
+        <strong>Topic-6: Intervals</strong>
       </td>
     </tr>
     <tr>
@@ -638,7 +638,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
     </tr>
     <tr>
       <td colspan="5" align="center">
-        <strong>Stack</strong>
+        <strong>Topic-7: Stack</strong>
       </td>
     </tr>
     <tr>
@@ -650,7 +650,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
       </td>
       <td>Easy</td>
       <td>🟢</td>
-      <td>❌</td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>53</td>
@@ -661,7 +661,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
       </td>
       <td>Medium</td>
       <td>🟡</td>
-      <td>❌</td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>54</td>
@@ -672,7 +672,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
       </td>
       <td>Medium</td>
       <td>🟡</td>
-      <td>❌</td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>55</td>
@@ -698,7 +698,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
     </tr>
     <tr>
       <td colspan="5" align="center">
-        <strong>Linked List</strong>
+        <strong>Topic-8: Linked List</strong>
       </td>
     </tr>
     <tr>
@@ -824,7 +824,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
     </tr>
     <tr>
       <td colspan="5" align="center">
-        <strong>Binary Tree General</strong>
+        <strong>Topic-9: Binary Tree General</strong>
       </td>
     </tr>
     <tr>
@@ -955,7 +955,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
     </tr>
     <tr>
       <td colspan="5" align="center">
-        <strong>Binary Tree BFS</strong>
+        <strong>Topic-10: Binary Tree BFS</strong>
       </td>
     </tr>
     <tr>
@@ -988,7 +988,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
     </tr>
     <tr>
       <td colspan="5" align="center">
-        <strong>Binary Search Tree</strong>
+        <strong>Topic-11: Binary Search Tree</strong>
       </td>
     </tr>
     <tr>
@@ -1014,7 +1014,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
     </tr>
     <tr>
       <td colspan="5" align="center">
-        <strong>Graph General</strong>
+        <strong>Topic-12: Graph General</strong>
       </td>
     </tr>
     <tr>
@@ -1061,7 +1061,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
     </tr>
     <tr>
       <td colspan="5" align="center">
-        <strong>Graph BFS</strong>
+        <strong>Topic-13: Graph BFS</strong>
       </td>
     </tr>
     <tr>
@@ -1087,7 +1087,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
     </tr>
     <tr>
       <td colspan="5" align="center">
-        <strong>Trie</strong>
+        <strong>Topic-14: Trie</strong>
       </td>
     </tr>
     <tr>
@@ -1113,15 +1113,15 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
     </tr>
     <tr>
       <td colspan="5" align="center">
-        <strong>Backtracking</strong>
+        <strong>Topic-15: Backtracking</strong>
       </td>
     </tr>
     <tr>
       <td>101</td>
-      <td>Letter Combinations of a Phone Number</td>
+      <td><a href='https://leetcode.com/problems/letter-combinations-of-a-phone-number/'>Letter Combinations of a Phone Number</a></td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>102</td>
@@ -1167,7 +1167,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
     </tr>
     <tr>
       <td colspan="5" align="center">
-        <strong>Divide &amp; Conquer</strong>
+        <strong>Topic-16: Divide &amp; Conquer</strong>
       </td>
     </tr>
     <tr>
@@ -1200,7 +1200,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
     </tr>
     <tr>
       <td colspan="5" align="center">
-        <strong>Kadane&#39;s Algorithm</strong>
+        <strong>Topic-17: Kadane&#39;s Algorithm</strong>
       </td>
     </tr>
     <tr>
@@ -1219,7 +1219,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
     </tr>
     <tr>
       <td colspan="5" align="center">
-        <strong>Binary Search</strong>
+        <strong>Topic-18: Binary Search</strong>
       </td>
     </tr>
     <tr>
@@ -1273,7 +1273,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
     </tr>
     <tr>
       <td colspan="5" align="center">
-        <strong>Heap</strong>
+        <strong>Topic-19: Heap</strong>
       </td>
     </tr>
     <tr>
@@ -1306,7 +1306,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
     </tr>
     <tr>
       <td colspan="5" align="center">
-        <strong>Bit Manipulation</strong>
+        <strong>Topic-20: Bit Manipulation</strong>
       </td>
     </tr>
     <tr>
@@ -1353,7 +1353,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
     </tr>
     <tr>
       <td colspan="5" align="center">
-        <strong>Math</strong>
+        <strong>Topic-21: Math</strong>
       </td>
     </tr>
     <tr>
@@ -1440,7 +1440,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
     </tr>
     <tr>
       <td colspan="5" align="center">
-        <strong>Multidimensional DP</strong>
+        <strong>Topic-23: Multidimensional DP</strong>
       </td>
     </tr>
     <tr>
