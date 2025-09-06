@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/Sublime_Text-%23575757.svg?logo=sublime-text&amp;logoColor=important)
 ![](https://img.shields.io/badge/Neovim-57A143.svg?logo=Neovim&amp;logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&amp;logoColor=white)
-![](https://img.shields.io/badge/Progress-00%2F150-0078D4)
+![](https://img.shields.io/badge/Progress-21%2F150-0078D4)
 
 This repository contains solutions to the Leetcode Top Interview 150 problems.
 
@@ -30,7 +30,7 @@ Show some ❤️ by starring ⭐ this repository if you like it!
 
 ## About the Top Interview 150 Collection 🏆 
 
-![](https://img.shields.io/badge/Progress-00%2F150-0078D4)
+![](https://img.shields.io/badge/Progress-21%2F150-0078D4)
 
 The Top Interview 150 collection on Leetcode is a curated set of 150 interview questions that top tech companies frequently ask. These questions are carefully selected to cover essential concepts and algorithms that interviewers expect candidates to be familiar with.
 
@@ -1128,7 +1128,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
       <td>Combinations</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>103</td>
